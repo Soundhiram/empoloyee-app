@@ -1,0 +1,8 @@
+{
+  "name": "employee-app",
+  "$schema": "../../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "source/web/employee-app/src",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
